@@ -5,3 +5,4 @@ Maincra		Ale
 Parchis		Jose Antonio
 Buscaminas	Alan
 PS4	Patty
+parchis	Abidin
