@@ -5,3 +5,4 @@ sobrazada	Miguel
 Sardinas	Jose Antonio
 Cuscús		Alan
 Hamburguesas	Patty
+pan		abidin
