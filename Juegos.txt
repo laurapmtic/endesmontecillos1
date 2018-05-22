@@ -1,3 +1,4 @@
 Juegos    Quien
 Los Lobos de Castronegro    Laura
 Maincra		Ale
+Buscaminas	Alan
