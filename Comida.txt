@@ -1,4 +1,5 @@
 Comida	Quien
 Chuletas	Laura
 Humanos		Ale
+sobrazada	Miguel
 Cuscús		Alan
