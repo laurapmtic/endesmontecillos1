@@ -1,4 +1,4 @@
-Comida	Quien
+﻿Comida	Quien
 Chuletas	Laura
 Humanos		Ale
 sobrazada	Miguel
@@ -6,3 +6,4 @@ Sardinas	Jose Antonio
 Cuscús		Alan
 Hamburguesas	Patty
 pan		abidin
+Macarrones      Aldo
