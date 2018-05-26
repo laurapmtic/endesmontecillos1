@@ -1,4 +1,4 @@
-Juegos    Quien
+Juegos		Quien
 Los Lobos de Castronegro    Laura
 El maincrah		Miguel
 Maincra		Ale
@@ -7,3 +7,4 @@ Buscaminas	Alan
 PS4	Patty
 parchis	Abidin
 WoW		Aldo
+UNO		Fran
